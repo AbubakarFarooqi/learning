@@ -1,0 +1,15 @@
+D:\learning\Design Patterns\OOP_Principles\Oop-principles\bin\Debug\net9.0\Oop-principles.exe
+D:\learning\Design Patterns\OOP_Principles\Oop-principles\bin\Debug\net9.0\Oop-principles.deps.json
+D:\learning\Design Patterns\OOP_Principles\Oop-principles\bin\Debug\net9.0\Oop-principles.runtimeconfig.json
+D:\learning\Design Patterns\OOP_Principles\Oop-principles\bin\Debug\net9.0\Oop-principles.dll
+D:\learning\Design Patterns\OOP_Principles\Oop-principles\bin\Debug\net9.0\Oop-principles.pdb
+D:\learning\Design Patterns\OOP_Principles\Oop-principles\obj\Debug\net9.0\Oop-principles.GeneratedMSBuildEditorConfig.editorconfig
+D:\learning\Design Patterns\OOP_Principles\Oop-principles\obj\Debug\net9.0\Oop-principles.AssemblyInfoInputs.cache
+D:\learning\Design Patterns\OOP_Principles\Oop-principles\obj\Debug\net9.0\Oop-principles.AssemblyInfo.cs
+D:\learning\Design Patterns\OOP_Principles\Oop-principles\obj\Debug\net9.0\Oop-principles.csproj.CoreCompileInputs.cache
+D:\learning\Design Patterns\OOP_Principles\Oop-principles\obj\Debug\net9.0\Oop-principles.sourcelink.json
+D:\learning\Design Patterns\OOP_Principles\Oop-principles\obj\Debug\net9.0\Oop-principles.dll
+D:\learning\Design Patterns\OOP_Principles\Oop-principles\obj\Debug\net9.0\refint\Oop-principles.dll
+D:\learning\Design Patterns\OOP_Principles\Oop-principles\obj\Debug\net9.0\Oop-principles.pdb
+D:\learning\Design Patterns\OOP_Principles\Oop-principles\obj\Debug\net9.0\Oop-principles.genruntimeconfig.cache
+D:\learning\Design Patterns\OOP_Principles\Oop-principles\obj\Debug\net9.0\ref\Oop-principles.dll
