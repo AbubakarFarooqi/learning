@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "D:\\learning\\Design Patterns\\OOP_Principles\\Oop-principles\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E529D811-A152-7958-974F-CABA362A9B03}|Oop-principles.csproj|d:\\learning\\design patterns\\oop_principles\\oop-principles\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E529D811-A152-7958-974F-CABA362A9B03}|Oop-principles.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E529D811-A152-7958-974F-CABA362A9B03}|Oop-principles.csproj|d:\\learning\\design patterns\\oop_principles\\oop-principles\\src\\solid\\o\\practice\\practiceo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E529D811-A152-7958-974F-CABA362A9B03}|Oop-principles.csproj|solutionrelative:src\\solid\\o\\practice\\practiceo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E529D811-A152-7958-974F-CABA362A9B03}|Oop-principles.csproj|d:\\learning\\design patterns\\oop_principles\\oop-principles\\src\\solid\\l\\bad\\bad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E529D811-A152-7958-974F-CABA362A9B03}|Oop-principles.csproj|solutionrelative:src\\solid\\l\\bad\\bad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E529D811-A152-7958-974F-CABA362A9B03}|Oop-principles.csproj|d:\\learning\\design patterns\\oop_principles\\oop-principles\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E529D811-A152-7958-974F-CABA362A9B03}|Oop-principles.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E529D811-A152-7958-974F-CABA362A9B03}|Oop-principles.csproj|d:\\learning\\design patterns\\oop_principles\\oop-principles\\src\\solid\\o\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -31,6 +35,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "PracticeO.cs",
+              "DocumentMoniker": "D:\\learning\\Design Patterns\\OOP_Principles\\Oop-principles\\src\\SOLID\\O\\Practice\\PracticeO.cs",
+              "RelativeDocumentMoniker": "src\\SOLID\\O\\Practice\\PracticeO.cs",
+              "ToolTip": "D:\\learning\\Design Patterns\\OOP_Principles\\Oop-principles\\src\\SOLID\\O\\Practice\\PracticeO.cs",
+              "RelativeToolTip": "src\\SOLID\\O\\Practice\\PracticeO.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAA2wDEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-10T13:19:29.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\learning\\Design Patterns\\OOP_Principles\\Oop-principles\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -38,8 +55,7 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-10T12:51:03.092Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-10T12:51:03.092Z"
             },
             {
               "$type": "Document",
@@ -49,14 +65,13 @@
               "RelativeDocumentMoniker": "src\\SOLID\\L\\Bad\\Bad.cs",
               "ToolTip": "D:\\learning\\Design Patterns\\OOP_Principles\\Oop-principles\\src\\SOLID\\L\\Bad\\Bad.cs",
               "RelativeToolTip": "src\\SOLID\\L\\Bad\\Bad.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAA4AAAAAAAAAAAA4wCEAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-10T12:50:41.263Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-10T12:50:41.263Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Circle.cs",
               "DocumentMoniker": "D:\\learning\\Design Patterns\\OOP_Principles\\Oop-principles\\src\\SOLID\\O\\Circle.cs",
               "RelativeDocumentMoniker": "src\\SOLID\\O\\Circle.cs",
@@ -64,12 +79,11 @@
               "RelativeToolTip": "src\\SOLID\\O\\Circle.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-10T11:40:15.588Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-10T11:40:15.588Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Shape.cs",
               "DocumentMoniker": "D:\\learning\\Design Patterns\\OOP_Principles\\Oop-principles\\src\\SOLID\\O\\Shape.cs",
               "RelativeDocumentMoniker": "src\\SOLID\\O\\Shape.cs",
